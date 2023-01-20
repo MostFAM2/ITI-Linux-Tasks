@@ -1,2 +1,2 @@
 # ITI Linux Tasks
-This Repo Contains ITI Linux Admistration Course Tasks
+This Repo Contains ITI Linux Adminstration Course Tasks
