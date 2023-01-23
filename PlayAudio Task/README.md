@@ -1,2 +1,2 @@
-# $\fbox{\color{Green} {Play Audio Every Specific Time using Bash Script}}$
+# $\fbox{\color{Green} {Play Audio Every 5 Seconds using Bash Script}}$
 
