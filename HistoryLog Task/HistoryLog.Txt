@@ -1,0 +1,1000 @@
+   34  cd..
+   35  cd ..
+   36  touch FileITI
+   37  gedit FileITI
+   38  cat FileITI
+   39  cd bin
+   40  cd /bin
+   41  bin /ls
+   42  cd /ls
+   43  cd /etc
+   44  ls
+   45  cd ..
+   46  cd /sbin
+   47  cd ..
+   48  cd /etc
+   49  cd ..
+   50  if config cd ..
+   51  ifconfig
+   52  sudo apt install net-tools
+   53  cd /user
+   54  cd /usr
+   55  cd /include
+   56  cd /includes
+   57  cd /include
+   58  cd ..
+   59  cd /usr/include
+   60  ls
+   61  ls | grep stdio
+   62  sudo apt install buildessential
+   63  sudo apt install <deb name>
+   64  sudo apt install build-essential
+   65  cd /desktop
+   66  cd /Desktop
+   67  mkdir pyLab1
+   68  cd /pyLab1
+   69  cd pyLab1
+   70  touch test.py
+   71  gedit test.py
+   72  python3 test.py
+   73  gedit test.py
+   74  py test.py
+   75  python3 test.py
+   76  cd ..
+   77  cd pyLAb1
+   78  cd pyLab1
+   79  touch test.c -o out
+   80  touch test.c
+   81  gedit test.c
+   82  sudo apt install mingw-w64
+   83  --fix-missing
+   84  apt-get update
+   85  sudo apt-get update
+   86  cd /usr/lib
+   87  gedit
+   88  cd ..
+   89  cd ~
+   90  cd /
+   91  cd /usr/include
+   92  ls | grep strdio
+   93  ls | grep stdio
+   94  cd~
+   95  cd ..
+   96  cd ~
+   97  sudo apt install 
+   98  sudo apt install Build-Essential
+   99  sudo apt install build-essential
+  100  sudo apt install python3
+  101  cd ..
+  102  cd / eclipse
+  103  cd ..
+  104  cd/
+  105  cd /
+  106  cd
+  107  cd dir
+  108  pwd
+  109  geddit CppTest
+  110  gedit CppTest
+  111  sudo apt install terminator
+  112  uname
+  113  uname -n\
+  114  uname -n
+  115  uname -r
+  116  uname -a
+  117  ls
+  118  ls -l
+  119  clear
+  120  cd /usr
+  121  nano TTST
+  122  cat STS
+  123  gedit
+  124  cat
+  125  grep m ITI
+  126  ls
+  127  cd /ITI
+  128  ITI
+  129  cd /ITI
+  130  gedit mstTXT
+  131  grep h nstTXT
+  132  grep h mstTXT
+  133  grep history
+  134  grep history mstTXT
+  135  history
+  136  history >> mstTXT
+  137  gedit mstTXT
+  138  grep -n mstTXT
+  139  grep -v histroy mstTXT
+  140  grep -v history mstTXT
+  141  clear
+  142  ls
+  143  cd ITI
+  144  ls
+  145  cd makefile
+  146  cd /makefile
+  147  cd 
+  148  cd..
+  149  cd ..
+  150  cd
+  151  grep -c history mstTXT
+  152  cd /etc/
+  153  cat /passwrd
+  154  cat passwd
+  155  gedit passwd
+  156  cut -d: -f1 passwd
+  157  cut -d: -f2 passwd
+  158  cut -d: -f2 passwd | grep n
+  159  cd
+  160  sudo apt install libaa-bin
+  161  aafire
+  162  sudo apt install espeak
+  163  espeak "ANA ZHAT MNAK YA TAHOOOOON"
+  164  espeak "ANA ZHAT MNAK YA TAAAAAHHHHHHHOOOOON"
+  165  mkdir LAB3
+  166  cd LAB3
+  167  mkdir F1 F2
+  168  touch file1.txt
+  169  tree
+  170  sudo snap install tree
+  171  cp file.txt F1
+  172  cp file1.txt F1
+  173  cp -r F2 F1
+  174  treeeee
+  175  tree
+  176  cp file1 F2
+  177  mv F1 F2
+  178  tree
+  179  cd /
+  180  tree
+  181  tree -l1
+  182  tree -L 1
+  183  tree -L 3
+  184  tree 
+  185  cd /
+  186  cd ~
+  187  cd LAB3
+  188  tree
+  189  cd F2 F1 F2
+  190  cd F2/ F1 /F2
+  191  cd F2
+  192  cd F1
+  193  cd F2
+  194  cd
+  195  cd LAB3
+  196  mkdir LAB1
+  197  mkdir -p f20/f10/f9/f8/f7
+  198  tree
+  199  mkdir -p f30/{f1,f2,f3,f4}
+  200  tree
+  201  cd 
+  202  history
+  203  cd LAB3
+  204  rm
+  205  rm -rv f20
+  206  tree
+  207  rm -rv f30
+  208  tree
+  209  rm -ri F2
+  210  tree
+  211  rm -rv LAB1
+  212  tree
+  213  vim f1
+  214  sudo apt install vim 
+  215  vim f1
+  216  trail f1
+  217  tail f1
+  218  head f1
+  219  more f1
+  220  less f1
+  221  more -n f1
+  222  more -N f1
+  223  more -5 f1
+  224  clear
+  225  head -n 3 f1
+  226  tail -n 3
+  227  tail -n 3 f1
+  228  tail -7 f1
+  229  head -13 f1
+  230  cd 
+  231  history
+  232  clear
+  233  clreaa
+  234  clrear
+  235  clear
+  236  man head
+  237  --help
+  238  help
+  239  clear
+  240  cd LAB3
+  241  ls -li
+  242  clear
+  243  tree
+  244  ls -li
+  245  cls
+  246  cd LAB3
+  247  tree
+  248  rm -rv f1
+  249  rm -file1.txt
+  250  rm -rv file.txt
+  251  tree
+  252  rm file1.txt
+  253  tree
+  254  ls
+  255  touch file1.txt
+  256  vim file1.txt
+  257  tree
+  258  rm -rv file1.txt
+  259  tree
+  260  touch Hussen_Hardlink.txt
+  261  touch Mansour_Src.txt
+  262  gedit Mansour_Src.txt 
+  263  gedit Mansour_Src.txt &
+  264  ls
+  265  rm -rv Hussen_Hardlink.txt 
+  266  ls
+  267  ln Mansour_Src.txt Hussien_Hardlink.txt
+  268  ls -li
+  269  cat Hussien_Hardlink.txt 
+  270  gedit Hussien_Hardlink.txt 
+  271  cat Hussien_Hardlink.txt 
+  272  rm -rv Mansour_Src.txt 
+  273  ls
+  274  cat Hussien_Hardlink.txt 
+  275  touch Mansour_Src.txt
+  276  ls
+  277  rm -rv Hussien_Hardlink.txt 
+  278  rm -rv Mansour_Src.txt 
+  279  ls
+  280  touch Mansour_softlink.txt
+  281  cat Mansour_softlink.txt 
+  282  ln -s Mansour_softlink.txt HussienShadow.txt
+  283  gedit HussienShadow.txt 
+  284  ls -li
+  285  ls
+  286  rm -rv Hussien_Hardlink.txt 
+  287  ls
+  288  gedit Mansour_softlink.txt 
+  289  cat Mansour_softlink.txt 
+  290  rm Mansour_softlink.txt 
+  291  cat  HussienShadow.txt 
+  292  ls -li
+  293  ls
+  294  rm Mansour_softlink.txt 
+  295  ls -li
+  296  touch Mansour_softlink.txt
+  297  ls -li
+  298  man ln
+  299  ls -l
+  300  cd 
+  301  ls -l
+  302  cd LAB3
+  303  clear
+  304  cd
+  305  cd LAB3
+  306  ls
+  307  rm -rv HussienShadow.txt 
+  308  rm -rv Mansour_softlink.txt 
+  309  ls
+  310  ls -l
+  311  chmod u+x
+  312  chmod u+x f1
+  313  ls -l
+  314  chmod u-x f1
+  315  chmod u-r f1
+  316  ls -l 
+  317  chmod u-w f1
+  318  ls -l
+  319  chmod 000
+  320  chmod 000 f1
+  321  ls -l
+  322  chmod uog-rwx f1
+  323  ls -l
+  324  chmod uog+rwx f1
+  325  ls -l
+  326  chmod uog-rwx f1
+  327  ls -l
+  328  clear
+  329  cd
+  330  sudo adduser
+  331  sudo adduser Mustfa
+  332  sudo adduser mustfa
+  333  su Mustfa
+  334  su mustfa
+  335  sudo deluser mustfa
+  336  ls
+  337  cd home
+  338  cd /home
+  339  ls
+  340  sudo rm -rf mustfa
+  341  ls
+  342  cd
+  343  groups
+  344  su ustfaf
+  345  su mustfa
+  346  sudo usermod -aG sudo mustfa
+  347  groups
+  348  sudo ls
+  349  sudo mustfa
+  350  su mustfa
+  351  rm -r/
+  352  rm -r /
+  353  rm -r / 2>errorfile
+  354  ls 
+  355  gedit errorfile
+  356  gedit errorfile &
+  357  rm -r / 1>errorfile
+  358  cat dev/ null
+  359  cat dev/null
+  360  cat dev /null
+  361  cat / dev/null
+  362  cat /dev/null
+  363  grep -r power /sys/ 1>/dev/null
+  364  grep -r power /sys/ 1>/errorfile
+  365  sudo grep -r power /sys/ 1>/errorfile
+  366  cd
+  367  cd /
+  368  sudo grep -r power /sys/ 1> /errorfile
+  369  grep -r power /sys/ 1>/dev/null
+  370  sudo grep -r power /sys/ 1> /f1
+  371  sudo grep -r power /sys/ 1> errorfile
+  372  grep -r power /sys/ 1>errorfile
+  373  clear
+  374  touch 1x 2x 3x 4x 5x 
+  375  ls -l *x
+  376  ls 
+  377  rm -r *x
+  378  ls
+  379  rm errorfile
+  380  ls
+  381  rm -r *X*
+  382  ls
+  383  rm LAB3
+  384  rm -r LAB3/
+  385  rm -r LAB3
+  386  ls
+  387  clear
+  388  history
+  389  /ibn
+  390  /bin
+  391  cd /bin
+  392  cd
+  393  cd ..
+  394  bash
+  395  cp
+  396  cp --help
+  397  echo hello world
+  398  kill
+  399  ln
+  400  ls
+  401  more
+  402  ping
+  403  gedit bin
+  404  cd /bin
+  405  ls
+  406  cd /mnt
+  407  ls
+  408  cd ..
+  409  ls /boot/grub
+  410  cd root
+  411  cd /root
+  412  root
+  413  sudo snap install root-framework
+  414  echo $PTH
+  415  echo $PATH
+  416  man -k password
+  417  whatis ls
+  418  what is cd
+  419  hatis cd
+  420  whatis cd
+  421  whatis ped
+  422  whatis pwd
+  423  /home
+  424  cd /home
+  425  ls
+  426  cd
+  427  ls
+  428  cd pyLab1/
+  429  touch TEST.py
+  430  gedit TEST.py 
+  431  python TEST.py 
+  432  python3 
+  433  python3 TEST.py 
+  434  gedit TEST.py 
+  435  hisotry
+  436  cd
+  437  history
+  438  python3 TEST,py
+  439  python3 /pyLab /TEST.py
+  440  ls
+  441  python3 cd /pyLab1 /TEST.py
+  442  python3 pyLab1/TEST.py 
+  443  cls
+  444  clear
+  445  whoami
+  446  hostname
+  447  date
+  448  uptime
+  449  gedit .bash_history
+  450  lsusb
+  451  lspci
+  452  printenv mostafa
+  453  clear
+  454  sudu su
+  455  sudo su
+  456  cd home
+  457  cd /home
+  458  ls
+  459  cd
+  460  ls
+  461  pyLab1 
+  462  cd /pyLab1
+  463  pyLab1
+  464  clear
+  465  cd /pyLab1
+  466  cd /PyLab1
+  467  ls
+  468  ITI
+  469  cd IIT
+  470  cd/ITI
+  471  Desktop
+  472  cd /Desktop
+  473  cd ..
+  474  ls
+  475  mostafa
+  476  cd /mostafa
+  477  cd .. Go up
+  478  cd ..
+  479  clear
+  480  pwd
+  481  ls
+  482  /bin
+  483  bin
+  484  /bin
+  485  cd /bin
+  486  cd /root
+  487  cd..
+  488  cd ..
+  489  cd /root
+  490  cd /home
+  491  ls
+  492  cd ..
+  493  ls
+  494  cd ~
+  495  ls
+  496  cd /ITI
+  497  cd /ITI/
+  498  cd /pylab1
+  499  pyLab1
+  500  cd /boot
+  501  cd ..
+  502  clear
+  503  uname -r
+  504  uname -a
+  505  ls -|
+  506  ls -l
+  507  pyLab1
+  508  cd /pyLab1
+  509  cd /
+  510  cd!
+  511  cd ~
+  512  ls
+  513  ls -l
+  514  cd /
+  515  ls
+  516  cd /pyLab1
+  517  ls -l
+  518  cd ~
+  519  ls 
+  520  ITI
+  521  Desktop
+  522  go to 
+  523  sudo snap install go
+  524  cat /etc/passwd
+  525  cut -d: -f1 /etc/passwd
+  526  clear
+  527  ls
+  528  cd /eclipse
+  529  chmod
+  530  man --cd
+  531  cd --help
+  532  cd pyLab1
+  533  ls
+  534  touch NewTxtcat
+  535  gedit NewTxtcat&
+  536  gedit .bash_history
+  537  history
+  538  gedit .bash_history
+  539  cd
+  540  gedit .bash_history
+  541  cd pyLab1/
+  542  ls
+  543  cat NewTxtcat 
+  544  cat > NewTxtcat 
+  545  cat >> NewTxtcat 
+  546  cat -n NewTxtcat 
+  547  cat >> NewTxtcat 
+  548  tree 
+  549  clear
+  550  ls
+  551  cd pyLab1/
+  552  tree
+  553  mkdir -p f1/f2/f3
+  554  tree f1
+  555  tree -L 1
+  556  tree
+  557  rm dir f1
+  558  rmdir f1
+  559  f1 
+  560  cd f1
+  561  cd f2 
+  562  rmdir f3
+  563  tree
+  564  cd ..
+  565  rmdir f2
+  566  cd ..
+  567  rmdir f1
+  568  tree
+  569  cat TEST.py
+  570  cat NewTxtcat 
+  571  cleaar
+  572  clear
+  573  cd ..
+  574  ls
+  575  cd ITI
+  576  ls
+  577  cd ..
+  578  ln -s LinkFile LinFile_Link
+  579  ls
+  580  ls . | grep LinkFile
+  581  ls | grep LinFile
+  582  ls -l . | grep LinFile
+  583  clear
+  584  ls /bin/ | grep ash
+  585  var1=Status
+  586  echo var1
+  587  var1 = Status
+  588  var1=STATUS
+  589  echo $var1
+  590  echo $PWD
+  591  echo $HOME
+  592  echo $SHELL
+  593  env
+  594  clear
+  595  touch script1
+  596  gedit script1 &
+  597  cat script1 
+  598  gedit script1 
+  599  cat script1 
+  600  ls -l | grep script1 
+  601  chmod +x script1 
+  602  ./script1 
+  603  gedit script1 
+  604  ./script1 
+  605  gedit script1 &
+  606  ./script1 
+  607  gedit script1 &
+  608  ./script1 
+  609  gedit script1 &
+  610  ./script1 
+  611  clear
+  612  sudo apt install mailutils
+  613  sudo apt install swaks
+  614  clear
+  615  cat /tmp/email.txt
+  616  cd tmp
+  617  ls
+  618  rm LinFile_Link
+  619  ls
+  620  clear
+  621  mutt -s "Test Email" rivew12391@cnxcoin.com < /dev/null
+  622  sudo snap install mutt
+  623  mutt -s "TEST Email" rivew12391@cnxcoin.com
+  624  mutt -s "Test" rivew12391@cnxcoin.com
+  625  sudo su
+  626  cd ..
+  627  cd ~
+  628  mail -s "Test" [200~rivew12391@cnxcoin.com
+  629  clear
+  630  maill -s "Tset" rivew12391@cnxcoin.com
+  631  mail -s "Test" rivew12391@cnxcoin.com
+  632  mail -s "Test" rivew12391@cnxcoin.com < /dev/null
+  633  mail -s "Test" rivew12391@cnxcoin.com < /dev
+  634  mail -s "Test" rivew12391@cnxcoin.com < script1 
+  635  mutt -s "Test" rivew12391@cnxcoin.com
+  636  mutt -s "Test" rivew12391@cnxcoin.com < script1 
+  637  mail -s "TestCode" rivew12391@cnxcoin.com < script1 
+  638  ssmtp rivew12391@cnxcoin.com
+  639  sudo apt install ssmtp
+  640  ssmtp rivew12391@cnxcoin.com
+  641  mutt -s "Test" rivew12391@cnxcoin.com < script1 
+  642  cd ~
+  643  cd ..
+  644  mutt -s "Test" rivew12391@cnxcoin.com < script1 
+  645  cd
+  646  cd /
+  647  mutt -s "Test" rivew12391@cnxcoin.com < script1 
+  648  ssmtp rivew12391@cnxcoin.com
+  649  mail -s "TestCode" rivew12391@cnxcoin.com < script1 
+  650  cd ~
+  651  mail -s "TestCode" rivew12391@cnxcoin.com < script1 
+  652  mail -s "TestCode11" rivew12391@cnxcoin.com < script1 
+  653  mail -s "TestCode11" engmost100@gmail.com < script1 
+  654  sudo apt install mail
+  655  mail --version
+  656  nano /etc/ssmtp/ssmtp.conf
+  657  sudo nano /etc/ssmtp/ssmtp.conf
+  658  mail -s "Subject Test"
+  659  sudo dpkg-reconfigure postfix
+  660  sudo apt instal mailutils
+  661  sudo install mailutils
+  662  sudo apt install mailutils
+  663  sudo apt autoremove
+  664  sudo apt install mailutils
+  665  mail -s "TestCode11" engmost100@gmail.com < script1 
+  666  cat /var/log/mail.err
+  667  mail -s "TestCode11" yipob90449@cmeinbox.com < /dev/null
+  668  vim /var/log/mail.err
+  669  $ echo $?
+  670  32
+  671  mail -s "TestCode11" yipob90449@cmeinbox.com < /dev/null
+  672  sudo apt autoremove
+  673  sudo dpkg-reconfigure postfix
+  674  mail -s "TestCode" rivew12391@cnxcoin.com < script1 
+  675  cd /rtc/hostname
+  676  cd /etc/hostname
+  677  /etc/hostname
+  678  sudo /etc/hostname
+  679  su /etc/hostname
+  680  sudo su /etc/hostname
+  681  sudo su
+  682  sudo apt-get remove postfix
+  683  /etc/postfix
+  684  cd /etc/postfix
+  685  ls
+  686  rmdir postfix
+  687  cd ..
+  688  ls
+  689  rm -r postfix
+  690  ls | grep post
+  691  rmdir postfix
+  692  sudo rmdir postfix
+  693  sudo su rm -r postfix
+  694  sudo rm postfix
+  695  sudo su rmdir postfix
+  696  sudo rmdir postfix
+  697  cd postfix
+  698  ls
+  699  rm
+  700  rm --help
+  701  rm postfix
+  702  ls
+  703  rm /etc/postfix
+  704  rm makedefs.out 
+  705  sudo makedefs.out 
+  706  cd
+  707  cd /etc/postfix
+  708  sudo su
+  709  sudo apt-get remove mailutils
+  710  cd ..
+  711  ls | grep post
+  712  ls
+  713  cd ..
+  714  cd
+  715  sudo apt-get remove ssmtp
+  716  sudo apt install mailutils
+  717  mail -s "TestCode11" loxibot163@cnxcoin.com < script1 
+  718  mail -s loxibot163@cnxcoin.com
+  719  mail -s "Test From Mostafa" engmost100@gmail.com < /dev/null
+  720  cat /tmp/email.txt
+  721  cd tmp
+  722  ls
+  723  rm dead.letter
+  724  ls
+  725  sendmail yipob90449@cmeinbox.com < script1 
+  726  mail yipob90449@cmeinbox.com
+  727  sudo apt-get purge postfix
+  728  cd etc
+  729  cd /etc
+  730  ls
+  731  ls | grep post
+  732  cd
+  733  dpkg-reconfigure postfix
+  734  sudo dpkg-reconfigure postfix
+  735  sudo apt install mailutils
+  736  sudo apt autoremove
+  737  sudo apt-get purge postfix
+  738  sudo apt install mailutils
+  739  sudo apt-get remove mailutils
+  740  sudo dpkg-reconfigure postfix
+  741  sudo apt install postfix
+  742  mail yipob90449@cmeinbox.com
+  743  sudo apt install mailutils
+  744  mail yipob90449@cmeinbox.com
+  745  sendmail yipob90449@cmeinbox.com < script1 
+  746  mail "Test Mail" yipob90449@cmeinbox@com < script1 
+  747  mail -s "Test Mail" yipob90449@cmeinbox@com < script1 
+  748  mail -s "Test Mail" yipob90449@cmeinbox.com < script1 
+  749  mail -s "Test Mail" engmost100@gmail.com < script1 
+  750  mail -s "Test Mail" yipob90449@cmeinbox.com < script1 
+  751  mail -s "TSET" baselyasser5400@gmail.com < /dev/null
+  752  mail -s "Test Mail" yipob90449@cmeinbox.com < script1 
+  753  mail -s "TSET" baselyasser5400@gmail.com < script
+  754  mail -s "TSET" baselyasser5400@gmail.com < script1 
+  755  telnet localhost smtp
+  756  [200~sudo apt-get install postfix mailutils libsasl2-2 ca-certificates libsasl2-modules~
+  757  sudo apt-get install postfix mailutils libsasl2-2 
+  758  cd /etc/postfix/main.cf
+  759  cd /etc/postfix/
+  760  ls
+  761  gedit main.cf
+  762  cd ..
+  763  ls
+  764  ls | grep -ali
+  765  ls | grep ali
+  766  cd /aliases
+  767  gedit aliases
+  768  sudo gedit aliases &
+  769  clear
+  770  ls
+  771  gedit aliases
+  772  sudo gedit aliases &
+  773  cd 
+  774  sudo newaliases
+  775  mail -s "Test Mail" engmost100@gmail.com < script1 
+  776  sudo apt gmail
+  777  sudo apt install gmail
+  778  mail -s "Test Mail" essaf_m@yahoo.com < script1 
+  779  clear
+  780  mail -s "Test" engmost100@gmail.com < script1 
+  781  clear
+  782  mail --version
+  783  sudo apt-get install vscode
+  784  clear
+  785  sudo gedit /etc/ssmtp/ssmtp.conf &
+  786  sudo nano /etc/ssmtp/ssmtp.conf
+  787  mail -s "TestSendFromLinux" 
+  788  mail -s "SubjectTest" engmost100@gmail.com < script1 
+  789  sudo gedit /etc/ssmtp/ssmtp.conf &
+  790  sudo nano /etc/ssmtp/ssmtp.conf
+  791  clear
+  792  cd /etc/postfix/main.cf
+  793  cd /etc/postfix/
+  794  ls
+  795  sydo rm -r main.cf
+  796  sudo rm -r main.cf
+  797  ls
+  798  cd
+  799  sudo apt install postfix
+  800  sudo dkpg-reconfigure postfix
+  801  sudo dpkg-reconfigure postfix
+  802  mail -s "SubjectTest" engmost100@gmail.com < script1 
+  803  sudo apt-get remove postfix
+  804  sudo apt autoremove
+  805  sudo apt autoremove postfix
+  806  mail -s "SubjectTest" engmost100@gmail.com < script1 
+  807  sudo apt-get remove mailutils
+  808  sudo apt autoremove mailytils
+  809  sudo apt autoremove mailutils
+  810  /etc
+  811  cd /etc
+  812  ls
+  813  ls | grep pos
+  814  sudo su
+  815  cd
+  816  cd /etc/ssmtp
+  817  sudo cd/etc/ssmtp
+  818  sudo /etc/ssmtp
+  819  cd etc/ssmtp
+  820  sudo cd etc/ssmtp
+  821  sudo /etc/ssmtp
+  822  cd /etc/ssmtp
+  823  sudo su
+  824  sudo apt-get purge postfix
+  825  cd /etc/postfix/
+  826  cd /etc
+  827  ls
+  828  ls | grep al
+  829  sudo su
+  830  cd
+  831  clear
+  832  sudo apt install mailutils
+  833  mail --version
+  834  sudo nano /etc/ssmtp/ssmtp.conf
+  835  mail -s "Test"
+  836  sudo apt-get install ssmtp
+  837  gksu gedit /etc/ssmtp/ssmtp.conf
+  838  sudo su
+  839  hoami
+  840  whoami
+  841  mail -s "Test"
+  842  sudo su888
+  843  mail -s "SubjectTest" engmost100@gmail.com < script1 
+  844  ssmtp engmost88@gmail.com
+  845  sendmail
+  846  clear
+  847  sudo nano /etc/ssmtp/ssmtp.conf
+  848  mail -s "Test"
+  849  sudo nano /etc/ssmtp/ssmtp.conf
+  850  mail -s "Test"
+  851  sudo apt-get remove ssmtp
+  852  sudo apt autoremove
+  853  mail -s "Test"
+  854  sudo apt-get purge postfix
+  855  sudo apt install mailutils
+  856  mail -s 'MSGTEST' engmost100@gmail.com 'Ay Hbd'
+  857  clear
+  858  cd
+  859  cd /var/log
+  860  ls
+  861  sudo nano auth.log
+  862  cd
+  863  exit
+  864  sudo apt remove postfix
+  865  sudo apt remove mailutils
+  866  sudo apt remove sendmail
+  867  sudo apt autoremove
+  868  sudo su 
+  869  sudo apt-get purge postfix
+  870  mail --version
+  871  sudo apt install mailutils
+  872  sudo nano /etc/ssmtp/ssmtp.conf
+  873  mail -s "Test" engmost88@gmail.com < script1 
+  874  sudo apt install ssmtp
+  875  mail -s "Test" engmost88@gmail.com < script1 
+  876  mail -s "Test" engmost100@gmail.com < script1 
+  877  clear
+  878  cd /Desktop
+  879  /Desktop
+  880  home
+  881  cd /home
+  882  ls
+  883  cd /mostafa
+  884  mostafa
+  885  cd mostafa
+  886  ls
+  887  cd /Desktop
+  888  cd Desktop
+  889  ls
+  890  script Error.txt
+  891  cd
+  892  mail -s "TestMail" engmost100@gmail.com < Error.txt
+  893  cd ~
+  894  cd
+  895  cd ..
+  896  ls
+  897  cd
+  898  cd/
+  899  /
+  900  cd
+  901  /cd
+  902  cd /
+  903  ls
+  904  cd
+  905  ls
+  906  cd Desktop
+  907  ls
+  908  mail -s "TestMail" engmost100@gmail.com < Error.txt
+  909  cd
+  910  grep -r power /sys/ 1> /dev/null
+  911  clear
+  912  cd Desktop
+  913  touch ErrorLog.txt
+  914  ls
+  915  rm -r Error.txt 
+  916  rm -r / 2>ErrorLog.txt 
+  917  gedit ErrorLog.txt &
+  918  ls -l 1>ErrorLog.txt 
+  919  la -l 1>ErrorLog.txt
+  920  cd
+  921  cd /
+  922  ls
+  923  /sys
+  924  cd sys
+  925  ls
+  926  cd/ dev
+  927  cd dev
+  928  ls
+  929  /block
+  930  cd block
+  931  ls
+  932  cd ..
+  933  ls
+  934  cd
+  935  ls
+  936  rm -r script1 
+  937  ls
+  938  rm -r dead.letter 
+  939  ls
+  940  cd snap
+  941  ls
+  942  cd
+  943  cd Desktop
+  944  ls
+  945  /sys/ 2> ErrorLog.txt 
+  946  grep -r power /sys/ 2> ErrorLog.txt 
+  947  cd
+  948  Q
+  949  man -clear
+  950  man clear
+  951  clear
+  952  cd Desktop/
+  953  ls
+  954  touch PlayMusic
+  955  gedit PlayMusic &
+  956  ./PlayMusic
+  957  cd
+  958  ./PlayMusic
+  959  cd Desktop/
+  960  ls
+  961  cat PlayMusic 
+  962  gedit Abu_Mecca_Melody4Arab.Com.mp3 
+  963  cd
+  964  touch PlayAudio
+  965  gedit PlayAudio 
+  966  ./PlayAudio
+  967  sudo su
+  968  ls
+  969  sudo ./PlayAudio
+  970  chmod 777 PlayAudio 
+  971  ./PlayAudio 
+  972  cd Desktop/
+  973  ls
+  974  chmod 777 Abu_Mecca_Melody4Arab.Com.mp3 
+  975  ./Abu_Mecca_Melody4Arab.Com.mp3 
+  976  chmod 777 PlayMusic 
+  977  ./PlayMusic 
+  978  nano PlayMusic 
+  979  ./PlayMusic 
+  980  cd
+  981  sudo apt-get remove vlc
+  982  vlc --version
+  983  sudo apt autoremove vlc
+  984  vlc --version
+  985  mail -s "TestMail" engmost100@gmail.com < ErrorLog.txt
+  986  cd Desktop/
+  987  mail -s "TestMail" engmost100@gmail.com < ErrorLog.txt 
+  988  cd
+  989  sudo apt instal sox
+  990  sudo apt install sox
+  991  sudo apt-get install sox libsox-fmt-all
+  992  cd Desktop/
+  993  play *mp3
+  994  clear
+  995  cd
+  996  ./PlayAudio 
+  997  cd Dcd Desktop/
+  998  cd Desktop/
+  999  ./PlayMusic 
+ 1000  cd
+ 1001  cd Desktop/
+ 1002  ./PlayMusic 
+ 1003  man sox
+ 1004  man sox | grep stop
+ 1005  ./PlayMusic 
+ 1006  man sox | grep st
+ 1007  man sox | grep stop
+ 1008  man sox | grep trim
+ 1009  ./PlayMusic 
+ 1010  cd Desktop
+ 1011  ls
+ 1012  cd 
+ 1013  ls
+ 1014  cd ITI
+ 1015  cd
+ 1016  touch HASSAN
+ 1017  cd Desktop
+ 1018  touch Hassan
+ 1019  gedit Hassan 
+ 1020  nano Hassan 
+ 1021  clear
+ 1022  cd
+ 1023  sudo apt-get install sox libsox-fmt-all
+ 1024  history > HistoryLog.Txt
+ 1025  ls
+ 1026  rm -r HASSAN 
+ 1027  ls
+ 1028  nano HistoryLog.Txt 
+ 1029  rm -r PlayAudio 
+ 1030  rm -r HistoryLog.Txt 
+ 1031  ls
+ 1032  cd Desktop/
+ 1033  history > HistoryLog.Txt
